@@ -51,7 +51,7 @@ public class MandelbrotJuliaCanvas extends JComponent {
             for(int x = 0; x < app.getWorldDimensions().getX(); x++){
                 Color stateColor = getColorForCellStatus(app.getCellStatusFor(x,y));
                 g.setColor(stateColor);
-                g.drawLine(x,y,x,y);
+                g.drawLine(x,y,x+1,y+1);
             }
         }
     }

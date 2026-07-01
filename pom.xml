@@ -18,14 +18,14 @@
     <inceptionYear>2013</inceptionYear>
 
     <scm>
-        <connection>scm:git:git@github.com:Computer-Kurzweil/mandelbrot-julia.git</connection>
-        <developerConnection>scm:git:git@github.com:Computer-Kurzweil/mandelbrot-julia.git</developerConnection>
-        <url>https://github.com/Computer-Kurzweil/mandelbrot-julia/tree/${project.scm.tag}</url>
+        <connection>scm:git:git@github.com:thomaswoehlkebochum/mandelbrot-julia.git</connection>
+        <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/mandelbrot-julia.git</developerConnection>
+        <url>https://github.com/thomaswoehlkebochum/mandelbrot-julia/tree/${project.scm.tag}</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/Computer-Kurzweil/mandelbrot-julia/issues/</url>
+        <url>https://github.com/thomaswoehlkebochum/mandelbrot-julia/issues/</url>
         <system>GitHub</system>
     </issueManagement>
 

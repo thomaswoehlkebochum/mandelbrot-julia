@@ -20,18 +20,18 @@
     </poweredBy>
     <body>
         <links>
-            <item name="GitHub project" href="https://github.com/Computer-Kurzweil/mandelbrot-julia/" />
+            <item name="GitHub project" href="https://github.com/thomaswoehlkebochum/mandelbrot-julia/" />
         </links>
         <breadcrumbs>
             <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlke" />
-            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/Computer-Kurzweil/" />
-            <item name="Fork this on GitHub" href="https://github.com/Computer-Kurzweil/computer_kurzweil/" />
+            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/thomaswoehlkebochum/" />
+            <item name="Fork this on GitHub" href="https://github.com/thomaswoehlkebochum/computer_kurzweil/" />
             <item name="Mandelbrot Set und its Julia Sets" href="index.html" />
         </breadcrumbs>
         <menu name="Overview" inherit="top">
             <item name="Home" href="index.html" />
-            <item name="Fork this on GitHub" href="https://github.com/Computer-Kurzweil/mandelbrot-julia" />
-            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/Computer-Kurzweil/" />
+            <item name="Fork this on GitHub" href="https://github.com/thomaswoehlkebochum/mandelbrot-julia" />
+            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/thomaswoehlkebochum/" />
             <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlke" />
             <item name="Donate" href="https://www.paypal.me/ThomasWoehlke" />
             <item name="Blog" href="https://thomas-woehlke.blogspot.com/2016/01/mandelbrot-set-drawn-by-turing-machine.html" />
@@ -43,9 +43,9 @@
         <menu name="Progress" inherit="bottom">
             <item name="CHANGELOG" href="CHANGELOG.html" />
             <item name="TODO" href="TODO.html" />
-            <item name="Github: Issues" href="https://github.com/Computer-Kurzweil/computer_kurzweil/issues/" />
-            <item name="Github: Milestones" href="https://github.com/Computer-Kurzweil/computer_kurzweil/milestones" />
-            <item name="Github: Releases" href="https://github.com/Computer-Kurzweil/computer_kurzweil/releases/" />
+            <item name="Github: Issues" href="https://github.com/thomaswoehlkebochum/computer_kurzweil/issues/" />
+            <item name="Github: Milestones" href="https://github.com/thomaswoehlkebochum/computer_kurzweil/milestones" />
+            <item name="Github: Releases" href="https://github.com/thomaswoehlkebochum/computer_kurzweil/releases/" />
         </menu>
         <menu name="Maven Reports" ref="reports" inherit="bottom"/>
     </body>

@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>mandelbrot-julia</artifactId>
-    <version>3.0.8</version>
+    <version>3.0.9-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Mandelbrot to Julia</name>
@@ -21,7 +21,7 @@
         <connection>scm:git:git@github.com:thomaswoehlkebochum/mandelbrot-julia.git</connection>
         <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/mandelbrot-julia.git</developerConnection>
         <url>https://github.com/thomaswoehlkebochum/mandelbrot-julia/tree/${project.scm.tag}</url>
-        <tag>mandelbrot-julia-3.0.8</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>

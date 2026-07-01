@@ -17,7 +17,7 @@ mandelbrotJulia:
   view:
     title: 'Mandelbrot Set'
     subtitle: 'Fractal Mandelbrot Set drawn by a Turing Machine'
-    copyright: '(c) 2023 Thomas Woehlke'
+    copyright: '(c) 2026 Thomas Woehlke'
     width: 400
     height: 292
     scale: 2
